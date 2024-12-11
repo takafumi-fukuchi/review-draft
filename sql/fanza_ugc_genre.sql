@@ -1,3 +1,4 @@
+-- 既存ジャンル×新ジャンルのSQL
 DECLARE
 execlusion_genre_category ARRAY<string> DEFAULT ['----',
   'キャンペーン'];
